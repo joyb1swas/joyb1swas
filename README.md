@@ -1,4 +1,4 @@
- <div align="center">
+docker  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Joy%20Biswas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Python%20%7C%20Data%20Science&descSize=16&descAlignY=60" width="100%" alt="Joy Biswas profile banner" />
 
@@ -58,6 +58,10 @@ A collection of academic and software development projects involving programming
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php" alt="Python, C, C++, Java, and PHP" />
 
+**Backend & Frameworks**
+
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+
 **Data Science & Machine Learning**
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -69,6 +73,10 @@ A collection of academic and software development projects involving programming
 **Databases & Design**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,figma" alt="MySQL, PostgreSQL, and Figma" />
+
+**DevOps & Tools**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
