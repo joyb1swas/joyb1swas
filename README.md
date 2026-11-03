@@ -85,15 +85,8 @@ A collection of academic and software development projects involving programming
 ## 📈 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/joyb1swas">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joyb1swas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/joyb1swas">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyb1swas&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</a>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=joyb1swas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=joyb1swas&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
