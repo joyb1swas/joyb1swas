@@ -1,4 +1,4 @@
-docker  <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Joy%20Biswas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Python%20%7C%20Data%20Science&descSize=16&descAlignY=60" width="100%" alt="Joy Biswas profile banner" />
 
